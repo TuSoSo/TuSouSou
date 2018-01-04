@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  TuSouSou
 //
-//  Created by newmac on 2018/1/3.
+//  Created by 斌小狼 on 2018/1/4.
 //  Copyright © 2018年 GuoYun. All rights reserved.
 //
 
@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    return YES;//额额额额额额
+    return YES;
 }
 
 
